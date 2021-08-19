@@ -158,7 +158,16 @@ span {
         left: 55%;
         top: 75%;
         transform: translate(-50%, -50%);
-        font-family: sans-serif;
         user-select: none;
+
+
+            padding: 0px 20px 20px;
+            font-family: 'Roboto',
+            sans-serif;
+
+            text-transform: uppercase;
+            width: 1000px;
+            font-weight: bold;
+            text-align: center;
 
 }
