@@ -154,4 +154,11 @@ span {
 
 .center2 h2 {
     font-size: 20px;
+        position: absolute;
+        left: 55%;
+        top: 75%;
+        transform: translate(-50%, -50%);
+        font-family: sans-serif;
+        user-select: none;
+
 }
